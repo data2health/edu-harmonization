@@ -2,7 +2,7 @@
 
 ## Problem statement
 The primary goal are to enhance discoverability, meta-data and ontology development,
-and assist in populating N-Lighten to facilitate its use by CTSA sites for training and 
+and assist in populating the various CTSA educational platforms to facilitate use by CTSA sites for training and 
 education. 
 
 
