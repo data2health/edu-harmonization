@@ -26,6 +26,8 @@ Lead(s) (github handle) | Site
 ----------|--------------|
 Metadata: Bill Hersh (@williamhersh) | OHSU
 NCATS Jewels: Shannon McWeeney (@biodevlab) | OHSU
+Lee Nadler
+Rebecca Jackson
 
 
 ## Team members 
