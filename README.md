@@ -1,9 +1,7 @@
-# edu-harmonization
+# educational landscape project
 
 ## Problem statement
-The primary goal are to enhance discoverability, meta-data and ontology development,
-and assist in populating the various CTSA educational platforms to facilitate use by CTSA sites for training and 
-education. 
+Educational resources are difficult to find and  utilize in the context of research, trial planning, and precision education. This project aims to reveal the landscape of existing resources and platforms, understand requirements for searching and using them, and make recommendations for a CTSA-wide strategic plan for CTSA training and educational resource discovery. 
 
 
 ## Project description
@@ -16,7 +14,7 @@ We require a contact person for each project for administrative purposes. Each p
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Connor Cook (@cgcok) | OHSU | Melissa Haendel (@mellybelly)
+Shannon McWeeney (@biodevlab) | OHSU | Melissa Haendel (@mellybelly)
 
 
 
@@ -27,7 +25,7 @@ Project scientific leadership, should be 1-3 persons.
 Lead(s) (github handle) | Site
 ----------|--------------|
 Metadata: Bill Hersh (@williamhersh) | OHSU
-NCATS Jewels: Shannon McWeeney (@???) | OHSU
+NCATS Jewels: Shannon McWeeney (@biodevlab) | OHSU
 
 
 ## Team members 
