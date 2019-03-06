@@ -1,4 +1,4 @@
-# educational landscape project
+# Educational Landscape Project
 
 ## Problem statement
 Educational resources are difficult to find and  utilize in the context of research, trial planning, and precision education. This project aims to reveal the landscape of existing resources and platforms, understand requirements for searching and using them, and make recommendations for a CTSA-wide strategic plan for CTSA training and educational resource discovery. 
