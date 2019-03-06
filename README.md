@@ -51,8 +51,6 @@ TO DO.
 
 ## Working documents
 
-FIX ME
-
 [The project Google drive folder](https://drive.google.com/drive/u/0/folders/1_hj7XQOJ4Ff3wrbtfVoIq5Fg0_cCQPPY) is accessible to onboarded participants. 
 
 ## Slack room
