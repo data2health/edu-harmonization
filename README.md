@@ -41,13 +41,15 @@ See https://github.com/data2health/project-repo-template/tree/master/team.md
 
 ## Deliverables
 Educational Landscape Analysis
+
 Ontology and search requirements
+
 Educuational resource discovery strategic plan
+
 
 ## Get involved
 We encourage the community to get involved. 
 
-TO DO.
 
 ## Working documents
 
