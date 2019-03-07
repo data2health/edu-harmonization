@@ -25,7 +25,7 @@ Project scientific leadership, should be 1-3 persons.
 Lead(s) (github handle) | Site
 ----------|--------------|
 Metadata: Bill Hersh (@williamhersh) | OHSU
-NCATS Jewels: Shannon McWeeney (@biodevlab) | OHSU
+NCATS Jewels: Shannon McWeeney (@wondermixtape) | OHSU
 Lee Nadler
 Rebecca Jackson
 
