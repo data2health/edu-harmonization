@@ -14,7 +14,7 @@ We require a contact person for each project for administrative purposes. Each p
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Shannon McWeeney (@biodevlab) | OHSU | Melissa Haendel (@mellybelly)
+Shannon McWeeney (@wondermixtape) | OHSU | Melissa Haendel (@mellybelly)
 
 
 
