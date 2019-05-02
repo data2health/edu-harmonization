@@ -18,8 +18,10 @@ Alexis Graves | [alexisgraves](https://github.com/alexisgraves) | Iowa
 Melissa Haendel | [mellybelly](http://github.com/mellybelly) | OHSU
 Shane Hasbrouck | [ShaneHasbrouck](https://github.com/ShaneHasbrouck) | Iowa
 Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
+Russ Lackey | [rulackey](https://github.com/rulackey) | #N/A
 Ted Laderas | [laderast](https://github.com/laderast) | OHSU
 Harold Lehmann | [hlehmann17](https://github.com/hlehmann17) | JHU
+Julie Miller | [github.com](http://github.com) | #N/A
 Sean Mooney | [sdmooney](http://github.com/sdmooney) | UW
 Erik Moser | [mosererik28](https://github.com/mosererik28) | Iowa
 Chaoqun Ni | [nichaoqun](https://github.com/nichaoqun) | Iowa
@@ -48,6 +50,7 @@ Sean Mooney | [sdmooney](http://github.com/sdmooney) | UW
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
 Svetlana Rojevsky | [github.com](http://github.com) | Tufts
+Erica Rosemond | [rosemonde2](http://github.com/rosemonde2) | #N/A
 Eugene Sadhu | [eugsadhu](https://github.com/eugsadhu) | UIC
 Thomas Schaffter | [tschaffter](https://github.com/tschaffter) | Sage
 Pamela Shaw | [bioscibrarian](https://github.com/bioscibrarian) | Northwestern
