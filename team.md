@@ -3,7 +3,6 @@
 ## Lead(s)
 Name | GitHub Handle | Site
 -- | -- | --
-Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 William Hersh | [williamhersh](https://github.com/williamhersh) | OHSU
 Shannon McWeeney | [wondermixtape](http://gitbhub.com/wondermixtape) | OHSU
 
@@ -11,6 +10,7 @@ Shannon McWeeney | [wondermixtape](http://gitbhub.com/wondermixtape) | OHSU
 Name | GitHub Handle | Site
 -- | -- | --
 Nick Anderson | [flipcorp](http://github.com/flipcorp) | UCDavisHealth
+Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Dave Eichmann | [eichmann](http://github.com/eichmann) | Iowa
 Harsha Ekanayake | [hpitawela](https://github.com/hpitawela) | Iowa
 Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS
