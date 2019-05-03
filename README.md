@@ -39,7 +39,7 @@ Alfred Vitale (CLIC-EDU)
 
 No action required here, a list of team members will be imported and linked below.
 
-See https://github.com/data2health/project-repo-template/tree/master/team.md
+See https://github.com/data2health/edu-harmonization/blob/master/team.md
 
 ## Repositories
 
