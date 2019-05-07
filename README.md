@@ -12,7 +12,6 @@ TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
 
 ## Contact person
 
-We require a contact person for each project for administrative purposes. Each project should also have a CD2H Program director assigned.
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
@@ -36,8 +35,6 @@ Alfred Vitale (CLIC-EDU)
 
 
 ## Team members 
-
-No action required here, a list of team members will be imported and linked below.
 
 See https://github.com/data2health/edu-harmonization/blob/master/team.md
 
