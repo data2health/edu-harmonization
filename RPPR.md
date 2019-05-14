@@ -21,13 +21,13 @@ Deployment of expanded CTSA EDU resources in the CD2H faceted search engine
 
 # Timeline (monthly)
 
-6/1 - Iniital proposal for minimal information about educational resources (MIAER) 
-7/1 -Summary of evaluation/feedback from commmunity resources (CLIC, DIAMOND, N-Lighten team) and NCATS EDU communities   
-8/1 - Incorporation of more specific EDU meta-data / ontology requirements into CD2H metadata intake/search tools 
-9/1 - Summary of evaluation/feedback from commmunity resources (CLIC, DIAMOND, N-Lighten team) and NCATS EDU communities as well as prioritization 
-10/1 - Extension of metadata/ontology for support of non-traditional EDU resources and use cases from communuity from evaluation feedback
-1/1 - Deployment of expanded CTSA EDU resources in the CD2H faceted search engine
-1/1 - MIAER community white paper
+* 6/1 - Iniital proposal for minimal information about educational resources (MIAER) 
+* 7/1 -Summary of evaluation/feedback from commmunity resources (CLIC, DIAMOND, N-Lighten team) and NCATS EDU communities   
+* 8/1 - Incorporation of more specific EDU meta-data / ontology requirements into CD2H metadata intake/search tools 
+* 9/1 - Summary of evaluation/feedback from commmunity resources (CLIC, DIAMOND, N-Lighten team) and NCATS EDU communities as well as prioritization 
+* 10/1 - Extension of metadata/ontology for support of non-traditional EDU resources and use cases from communuity from evaluation feedback
+* 1/1 - Deployment of expanded CTSA EDU resources in the CD2H faceted search engine
+* 1/1 - MIAER community white paper
 
 # Potential Pitfalls and Alternative Strategies
 A substantial number of external sources are already being regularly harvested and integrated (DIAMOND, N-Lighten, BD2K GitHub repositories) which significantly reduces the overall risk. The key challenge is successful harmonization of educational resources and agreement on simplifying the current diversity of their descriptions. This will depend on community development of and agreement to MIAER. We believe that this effort being co-led by CLIC EDU, DIAMOND and N-Lighten teams will dramatically reduce risk and we plan for continual feedback and evaluation from the community (in addition to the 2 major evaluation milestones). 
