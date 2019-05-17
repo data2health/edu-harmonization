@@ -19,11 +19,9 @@ Community feedback to improve the underlying resource ontology
 Deployment of expanded CTSA EDU resources in the CD2H faceted search engine
 
 # Deliverables
-Educational Landscape Analysis
+Minimal Information About Educational Resources Standard
+Expanded CTSA EDU resources in the CD2H faceted search engine
 
-Ontology and search requirements
-
-Educuational resource discovery strategic plan
 
 
 # Timeline (monthly)
