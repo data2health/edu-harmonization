@@ -20,6 +20,7 @@ Deployment of expanded CTSA EDU resources in the CD2H faceted search engine
 
 # Deliverables
 Minimal Information About Educational Resources Standard
+
 Expanded CTSA EDU resources in the CD2H faceted search engine
 
 
