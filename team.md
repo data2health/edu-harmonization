@@ -10,6 +10,7 @@ Shannon McWeeney | [wondermixtape](http://gitbhub.com/wondermixtape) | OHSU
 Name | GitHub Handle | Site
 -- | -- | --
 Nick Anderson | [flipcorp](http://github.com/flipcorp) | UCDavisHealth
+Matt Baumann | [mattbaumann1](http://github.com/mattbaumann1) | Northwestern
 Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Dave Eichmann | [eichmann](http://github.com/eichmann) | Iowa
 Harsha Ekanayake | [hpitawela](https://github.com/hpitawela) | Iowa
@@ -35,13 +36,17 @@ Marijane White | [marijane](https://github.com/marijane) | OHSU
 ## Mailing list only
 Name | GitHub Handle | Site
 -- | -- | --
+Michael Bales | [michaelbales1](http://github.com/michaelbales1) | Cornell
 Tom Campion | [github.com](http://github.com) | Cornell
 Christopher Chute | [cgchute](https://github.com/cgchute) | JHU
 Connor Cook | [cgcook](https://github.com/cgcook) | OHSU
+Catherine  Craven | [github.com](http://github.com) | Icahn
 Peter Elkin | [github.com](http://github.com) | UBuffalo
 Shahim Essaid | [ShahimEssaid](http://github.com/ShahimEssaid) | OHSU
 Tamas Gal | [tsgal](https://github.com/tsgal) | CCTR
+Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
+Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Ashok Krishnamurthy | [ashokohio](http://github.com/ashokohio) | UNC
 Cindy Morris | [cynthiamorris](http://github.com/cynthiamorris) | OHSU
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
@@ -53,5 +58,6 @@ Julian Solway | [jsolway](http://github.com/jsolway) | UChicago
 Ali Torkamani | [atorkama](https://github.com/atorkama) | Scripps
 John Wilbanks | [wilbanksjohn](http://github.com/wilbanksjohn) | Sage
 Tamara Winden | [tjwinden](http://github.com/tjwinden) | KansasU
+Elizabeth Zak | [ezak101](https://github.com/ezak101) | Iowa
 Xinzhi Zhang | [NCATS2019](https://github.com/NCATS2019) | NCATS
 
