@@ -36,6 +36,7 @@ Marijane White | [marijane](https://github.com/marijane) | OHSU
 ## Mailing list only
 Name | GitHub Handle | Site
 -- | -- | --
+Chris Amos | [github.com](http://github.com) | Baylor
 Michael Bales | [michaelbales1](http://github.com/michaelbales1) | Cornell
 Tom Campion | [github.com](http://github.com) | Cornell
 Christopher Chute | [cgchute](https://github.com/cgchute) | JHU
