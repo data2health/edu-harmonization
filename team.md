@@ -49,6 +49,7 @@ Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Ashok Krishnamurthy | [ashokohio](http://github.com/ashokohio) | UNC
+Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | #N/A
 Cindy Morris | [cynthiamorris](http://github.com/cynthiamorris) | OHSU
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
