@@ -46,6 +46,7 @@ Peter Elkin | [github.com](http://github.com) | UBuffalo
 Shahim Essaid | [ShahimEssaid](http://github.com/ShahimEssaid) | OHSU
 Tamas Gal | [tsgal](https://github.com/tsgal) | CCTR
 Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana
+Steve Johnson | [github.com](http://github.com) | NYU
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Ashok Krishnamurthy | [ashokohio](http://github.com/ashokohio) | UNC
