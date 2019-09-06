@@ -8,7 +8,8 @@ Educational resources are often difficult to find and  utilize in the context of
 There is outstanding expertise in mentoring and domain-specific training across the CTSA consortium. Enhancing the discoverability and dissemination of the associated educational and training materials developed across the CTSAs will have an immediate impact on the career development and workforce training capability. CD2H will support improving discoverability, metadata/ontology development, curating and enhancing content. This will also allow coordination with other NCATS efforts, like the Development, Implementation and AssessMent of Novel Training in Domain-based Competencies (DIAMOND) which offers a personalized pathway for training in clinical research and  N-Ligthen, a federated platform for education resource sharing.  We will also work closely the CLIC EDU lead, CTSAs and associated working groups on identifying and prioritizing other personalized pathways to this resource.
 
 ## Alignment to program objectives
-TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
+FOA.5: Stimulate the use of cutting edge biomedical research informatics by providing data science education for CTSA Program researchers.
+Disseminate educational informatics resources and other products and provide a forum that will provide an assessment of the value of these products. Disseminate high-quality educational resources and materials (e.g. Massive Open Online Courses or MOOCs), including workshops, externship offerings, conferences and courses.
 
 ## Contact person
 
