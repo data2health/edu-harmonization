@@ -31,7 +31,7 @@ Project scientific leadership, should be 1-3 persons.
 Lead(s) (github handle) | Site
 ----------|--------------|
 Metadata: Bill Hersh (@williamhersh) | OHSU
-NCATS Jewels: Shannon McWeeney (@wondermixtape) | OHSU
+MIER: Ted Laderas (@laderast) | OHSU
 Lee Nadler (N-Lighten)
 Rebecca Jackson (N-Lighten)
 Carolynn Jones (Diamond)
