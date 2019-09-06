@@ -58,6 +58,4 @@ We encourage the community to get involved.
 
 [The project Google drive folder](https://drive.google.com/drive/u/0/folders/1_hj7XQOJ4Ff3wrbtfVoIq5Fg0_cCQPPY) is accessible to onboarded participants. 
 
-## Slack room
-[The project slack room](https://cd2h.slack.com/messages/CGR6CNXPD) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
 
