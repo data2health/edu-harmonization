@@ -37,3 +37,20 @@ Expanded CTSA EDU resources in the CD2H faceted search engine
 
 # Potential Pitfalls and Alternative Strategies
 A substantial number of external sources are already being regularly harvested and integrated (DIAMOND, N-Lighten, BD2K GitHub repositories) which significantly reduces the overall risk. The key challenge is successful harmonization of educational resources and agreement on simplifying the current diversity of their descriptions. This will depend on community development of and agreement to MIAER. We believe that this effort being co-led by CLIC EDU, DIAMOND and N-Lighten teams will dramatically reduce risk and we plan for continual feedback and evaluation from the community (in addition to the 2 major evaluation milestones). 
+
+# Y3 (July 1, 2019-June 30, 2020) Accomplishments 
+The following content is from the June 30 - Dec 30, 2019 mid year progress report [here](https://docs.google.com/document/d/1LLe3uCfEUakWxIJyi5SA4ZocYDmINvhySTperaui1Bw/edit).  Please add progress for Jan 1 - June 30th, 2020. 
+
+* An NCATS community vetted metadata standard for the Minimal Information About Educational Resources (both as a white paper and incorporated as requirements into curation/search)
+    * Project terminated and resource activities assigned to the SciTS project.
+
+* Community feedback to improve the underlying resource ontology
+    * Due to resources reallocated to the admin core, this work was moved to the grant being planned with N-Lighten and outside of CD2H.
+
+* Deployment of expanded CTSA EDU resources in the CD2H faceted search engine:
+    * The SciTS project progress report covers these activities.
+
+* Minimal Information About Educational Resources Standard (Deliverable)
+    * [Complete](https://docs.google.com/spreadsheets/d/1ubRO0UDlJgXAahpE1f0trmyY_xvVdAhuznNHjuwkOrA/edit#gid=915089607) 
+
+
